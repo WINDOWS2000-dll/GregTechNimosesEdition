@@ -1,0 +1,50 @@
+//DraconicCircuit
+item.contenttweaker.draconiccircuit.name=ドラゴニック回路
+item.contenttweaker.draconicprosessor.name=ドラゴニックプロセッサー
+item.contenttweaker.draconicprosessorarray.name=ドスーパーコンピューター
+item.contenttweaker.draconicmainframe.name=ドラゴニックプロセッサーメインフレーム
+//Awakened Circuit
+item.contenttweaker.awakenedcircuit.name=Awakened Circuit
+item.contenttweaker.awakenedprosessor.name=Awakened Prosessor
+item.contenttweaker.awakenedprocessorarray.name=Awakened SuperComputer
+item.contenttweaker.awakenedmainframe.name=AwakenedProsessor MainFrame
+//Chaotic Circuit
+item.contenttweaker.chaoticcircuit.name=Chaotic Circuit
+item.contenttweaker.chaoticprocessor.name=Chaotic Processor
+item.contenttweaker.chaoticprocessorarray.name=Chaotic SuperComputer
+item.contenttweaker.chaoticprocessormainframe.name=ChaoticProcessor MainFrame
+//中間素材
+item.contenttweaker.crystaloscillator.name=水晶振動子
+item.contenttweaker.spacesuitfabric.name=宇宙服繊維
+//SSTMPSDivice
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncore.name=SSTMPTCore
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncasing.name=SSTMPTCasing
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncoil.name=SSTMPTCoil
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncompuercasing.name=SSTMPTComputionCasing
+//chaosproofmachinecasing
+tile.contenttweaker.chaosproofmachinecasing.name="Chaos"ProofMachineCasing
+//Neutronium Coil
+tile.contenttweaker.machine_coil_neutonium.name=ニュートロニウムコイル
+//コンクリート
+tile.contenttweaker.fiber_reinforced_concrete.name=繊維強化コンクリート
+tile.contenttweaker.reinforced_concrete.name=鉄筋コンクリート
+//ケブラー繊維
+item.contenttweaker.kevlarfiber.name=ケブラー繊維
+item.contenttweaker.kevlarfabric.name=ケブラー生地
+//生命維持装置
+item.contenttweaker.life_support_system.name=生命維持装置
+//炭素繊維
+item.contenttweaker.carbonreinforcedfabric.name=炭素繊維強化シート
+//AE2
+item.contenttweaker.material_network_processor.name=ネットワーク制御プロセッサー
+item.contenttweaker.material_network_processor_print.name=ネットワーク制御プロセッサー基盤
+item.contenttweaker.material_network_processor_press.name=ネットワーク制御プロセッサーの金型
+item.contenttweaker.material_fluid_processor.name=流体演算プロセッサー
+item.contenttweaker.material_fluid_processor_print.name=流体演算プロセッサー基盤
+item.contenttweaker.material_fluid_processor_press.name=流体演算プロセッサーの金型
+item.contenttweaker.material_network_control_processor.name=ネットワーク管制プロセッサー
+item.contenttweaker.material_me_data_processing_unit.name=MEデータ処理装置
+item.contenttweaker.material_crafting_control_processor.name=自動クラフト制御プロセッサー
+item.contenttweaker.material_logistics_control_processor.name=物流制御プロセッサー
+item.contenttweaker.material_fluid_crafting_processor.name=流体クラフト制御プロセッサー
+item.contenttweaker.material_me_control_processor.name=MEコントロールプロセッサー

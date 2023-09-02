@@ -1,0 +1,60 @@
+//DraconicCircuit
+item.contenttweaker.draconiccircuit.name=Bioelectronic Circuit
+item.contenttweaker.draconicprosessor.name=Bioelectronic Processor
+item.contenttweaker.draconicprosessorarray.name=Bioelectronic SuperComputer
+item.contenttweaker.draconicmainframe.name=Bioelectronic SuperComputer Array
+//Awakened Circuit
+item.contenttweaker.awakenedcircuit.name=Optical Circuit
+item.contenttweaker.awakenedprosessor.name=Optical Prosessor
+item.contenttweaker.awakenedprocessorarray.name=Optical SuperComputer
+item.contenttweaker.awakenedmainframe.name=Optical SuperComputer Array
+//Chaotic Circuit
+item.contenttweaker.chaoticcircuit.name=Positron Circuit
+item.contenttweaker.chaoticprocessor.name=Positron Processor
+item.contenttweaker.chaoticprocessorarray.name=Positron SuperComputer
+item.contenttweaker.chaoticprocessormainframe.name=Positron SuperComputer Array
+//中間素材
+item.contenttweaker.crystaloscillator.name=Crystal Oscillator
+item.contenttweaker.spacesuitfabric.name=SpaceSuit Fabric
+//SSTMPSDivice
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncore.name=SSTMPTCore
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncasing.name=SSTMPTCasing
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncoil.name=SSTMPTCoil
+tile.contenttweaker.supercriticalspatiotemporalmaterialphasetransitioncompuercasing.name=SSTMPTComputionCasing
+//chaosproofmachinecasing
+tile.contenttweaker.chaosproofmachinecasing.name="Chaos"ProofMachineCasing
+//Neutronium Coil
+tile.contenttweaker.machine_coil_neutonium.name=Neutronium Coil
+//コンクリート
+tile.contenttweaker.fiber_reinforced_concrete.name=Fiber-Reinforced Concrete
+tile.contenttweaker.reinforced_concrete.name=Reinforced Concrete
+//ケブラー繊維
+item.contenttweaker.kevlarfiber.name=Kevlar Fiber
+item.contenttweaker.kevlarfabric.name=Kevlar Fabric
+//生命維持装置
+item.contenttweaker.life_support_system.name=Life Support System
+//炭素繊維
+item.contenttweaker.carbonreinforcedfabric.name=Carbon Reinforced Fabric
+//AE2 Processores
+item.contenttweaker.material_network_processor.name=Network Processor
+item.contenttweaker.material_network_processor_print.name=Network Processor Print
+item.contenttweaker.material_network_processor_press.name=Network Processor Press
+item.contenttweaker.material_fluid_processor.name=Fluid Processor
+item.contenttweaker.material_fluid_processor_print.name=Fluid Processor Print
+item.contenttweaker.material_fluid_processor_press.name=Fluid Processor Press
+item.contenttweaker.material_network_control_processor.name=Network Control Processor
+item.contenttweaker.material_me_data_processing_unit.name=ME Data Processing Unit
+item.contenttweaker.material_crafting_control_processor.name=Crafting Control Processor
+item.contenttweaker.material_logistics_control_processor.name=Logistics Control Processor
+item.contenttweaker.material_fluid_crafting_processor.name=Fluid Crafting Processor
+item.contenttweaker.material_me_control_processor.name=ME Control Processor
+//レンズ
+item.contenttweaker.lens_uvarovite.name=Uvarovite Lens
+item.contenttweaker.lens_lazurite.name=Lazurite Lens
+//堕ちた星
+item.contenttweaker.fallen_netherstar.name=Fallen NetherStar
+//Advanced Assembly Line
+tile.contenttweaker.machine_casing_advanced_assembly_control.name=Advanced Assembly Control Casing
+tile.contenttweaker.machine_casing_advanced_assembly.name=Advanced Assembly Line Casing
+tile.contenttweaker.advanced_assembly_line_filter_casing=Advanced Assembly Line Filter Casing
+tile.machine_casing_advanced_assembly_line.name=Advanced Assembly Casing

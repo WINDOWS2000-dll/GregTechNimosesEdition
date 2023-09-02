@@ -1,0 +1,13 @@
+{
+  "PlayerCache": {
+    "Sanjinooyatu1692": {
+      "LittleMaidModel": "IOR_Body_Rise_IORB",
+      "LittleMaidColor": 12,
+      "HelmetModel": "IOR_RH_Rize_iron_IORW",
+      "ChestplateModel": "IOR_RH_Rize_iron_IORW",
+      "LeggingsModel": "IOR_RH_Rize_iron_IORW",
+      "BootsModel": "IOR_RH_Rize_iron_IORW",
+      "EnableLittleMaidAvatar": false
+    }
+  }
+}

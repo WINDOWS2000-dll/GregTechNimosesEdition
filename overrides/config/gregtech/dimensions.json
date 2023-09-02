@@ -1,0 +1,32 @@
+{
+  "dims": [
+    {
+      "dimID": 0,
+      "dimName": "Overworld"
+    },
+    {
+      "dimID": 1,
+      "dimName": "End"
+    },
+    {
+      "dimID": -1,
+      "dimName": "Nether"
+    },
+    {
+      "dimID": 3,
+      "dimName": "Luna"
+    },
+    {
+      "dimID": 146,
+      "dimName": "VolcaticPlanet"
+    },
+    {
+      "dimID": 147,
+      "dimName": "Devastation"
+    },
+    {
+      "dimID": 148,
+      "dimName": "NULL"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "weight": 55,
+  "density": 0.6,
+  "max_height": 60,
+  "min_height": 5,
+  "vein_populator": {
+    "type": "surface_rock",
+    "material": "bauxite"
+  },
+  "dimension_filter": ["dimension_id:3"],
+  "generator": {
+    "type": "layered",
+    "radius": [
+      36,
+      36
+    ]
+  },
+  "filler": {
+    "type": "layered",
+    "values": [
+      {
+        "primary": "ore_dict:oreBauxite"
+      },
+      {
+        "secondary": "ore_dict:oreIlmenite"
+      },
+      {
+        "between": "ore_dict:oreAluminium"
+      },
+      {
+        "sporadic": "ore_dict:oreBauxite"
+      }
+    ]
+  }
+}

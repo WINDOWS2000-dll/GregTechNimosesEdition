@@ -1,0 +1,78 @@
+{
+  "machine": "Particle_Accelerator",
+  "registryName": "antimatter",
+  "recipeTime": 4000,
+  "requirements": [
+    {
+      "type": "energy",
+      "io-type": "input",
+      "energyPerTick": 100663296
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "ultrahighdensityneutronium",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "europium",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "americium",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "tritanium",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "draconiumawakened",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "chaoticmetal",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "neutronium",
+      "amount": 576
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "curium_247",
+      "amount": 4608
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "americium_242",
+      "amount": 4608
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "californium_251",
+      "amount": 4608
+    },
+    {
+      "type": "fluid",
+      "io-type": "output",
+      "fluid": "antimatter",
+      "amount": 2304
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "outputs": [
+    {
+      "target": "black",
+      "weight": 1000,
+      "id": "OD:oreCoal"
+    },
+    {
+      "target": "yellow",
+      "weight": 311,
+      "id": "OD:oreGold"
+    },
+    {
+      "target": "yellow",
+      "weight": 234,
+      "id": "OD:glowstone"
+    },
+    {
+      "target": "black",
+      "weight": 5,
+      "id": "gregtech:ore_platinum_0"
+    }
+  ]
+}

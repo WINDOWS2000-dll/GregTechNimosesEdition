@@ -1,0 +1,204 @@
+{
+  "additional": [
+    "assets/minecraft/textures/entity/littlemaid/additional/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_45.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/default_55.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_00.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_01.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_02.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_03.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_04.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_05.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_06.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_07.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_08.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_09.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0a.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0b.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0d.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0e.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_0f.png",
+    "assets/minecraft/textures/entity/littlemaid/additional/mob_littlemaid_3c.png"
+  ],
+  "alternative": [
+    "assets/minecraft/textures/entity/littlemaid/alternative/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/littlemaidinventory_20.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_3c.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_9.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_c.png",
+    "assets/minecraft/textures/entity/littlemaid/alternative/mob_littlemaid_d.png"
+  ],
+  "cDM_cDMB": [
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_00.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_01.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_02.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_03.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_04.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_05.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_06.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_07.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_08.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_09.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0a.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0d.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0e.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_cDMB/cDMB_0f.png"
+  ],
+  "cDM_L_cDMWmd": [
+    "assets/minecraft/textures/entity/littleMaid/cDM_L_cDMWmd/default_40.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_L_cDMWmd/default_50.png"
+  ],
+  "cDM_M_cDMWmd": [
+    "assets/minecraft/textures/entity/littleMaid/cDM_M_cDMWmd/default_40.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_M_cDMWmd/default_50.png"
+  ],
+  "cDM_S_cDMWmd": [
+    "assets/minecraft/textures/entity/littleMaid/cDM_S_cDMWmd/default_40.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_S_cDMWmd/default_50.png"
+  ],
+  "cDM_X_cDMWmd": [
+    "assets/minecraft/textures/entity/littleMaid/cDM_X_cDMWmd/default_40.png",
+    "assets/minecraft/textures/entity/littleMaid/cDM_X_cDMWmd/default_50.png"
+  ],
+  "default": [
+    "assets/minecraft/textures/entity/littlemaid/default/default_40.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_45.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_50.png",
+    "assets/minecraft/textures/entity/littlemaid/default/default_55.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_00.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_01.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_02.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_03.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_04.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_05.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_06.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_07.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_08.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_09.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0a.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0b.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0d.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0e.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_0f.png",
+    "assets/minecraft/textures/entity/littlemaid/default/mob_littlemaid_3c.png"
+  ],
+  "IOR_Amausa_Chino_IORWam": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Amausa_Chino_IORWam/default_IORWam_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Amausa_Chino_IORWam/default_IORWam_50.png"
+  ],
+  "IOR_Amausa_IORWam": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Amausa_IORWam/default_IORWam_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Amausa_IORWam/default_IORWam_50.png"
+  ],
+  "IOR_Body_Chino_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chino_IORB/Chino_IORB_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chino_IORB/Chino_IORB_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chino_IORB/Chino_IORB_0d.png"
+  ],
+  "IOR_Body_Chiya_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chiya_IORB/Chiya_def_IOLM1_0a.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chiya_IORB/Chiya_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chiya_IORB/Chiya_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Chiya_IORB/Chiya_def_IOLM1_0d.png"
+  ],
+  "IOR_Body_Cocoa_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Cocoa_IORB/Cocoa_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Cocoa_IORB/Cocoa_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Cocoa_IORB/Cocoa_def_IOLM1_0d.png"
+  ],
+  "IOR_Body_Maya_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Maya_IORB/Maya_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Maya_IORB/Maya_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Maya_IORB/Maya_def_IOLM1_0d.png"
+  ],
+  "IOR_Body_Megu_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Megu_IORB/Megu_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Megu_IORB/Megu_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Megu_IORB/Megu_def_IOLM1_0d.png"
+  ],
+  "IOR_Body_Rise_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Rise_IORB/Rise_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Rise_IORB/Rise_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Rise_IORB/Rise_def_IOLM1_0d.png"
+  ],
+  "IOR_Body_Syaro_IORB": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Syaro_IORB/Syaro_def_IOLM1_0a.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Syaro_IORB/Syaro_def_IOLM1_0b.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Syaro_IORB/Syaro_def_IOLM1_0c.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Body_Syaro_IORB/Syaro_def_IOLM1_0d.png"
+  ],
+  "IOR_Fleur-du-lapin_L_IORWfl": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_L_IORWfl/default_IORWfl_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_L_IORWfl/default_IORWfl_50.png"
+  ],
+  "IOR_Fleur-du-lapin_M_IORWfl": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_M_IORWfl/default_IORWfl_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_M_IORWfl/default_IORWfl_50.png"
+  ],
+  "IOR_Fleur-du-lapin_S_IORWfl": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_S_IORWfl/default_IORWfl_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_S_IORWfl/default_IORWfl_50.png"
+  ],
+  "IOR_Fleur-du-lapin_X_IORWfl": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_X_IORWfl/default_IORWfl_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_Fleur-du-lapin_X_IORWfl/default_IORWfl_50.png"
+  ],
+  "IOR_RH_Chino_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chino_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chino_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chino_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chino_IORW/iron_50.png"
+  ],
+  "IOR_RH_Chiya_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chiya_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chiya_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chiya_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Chiya_IORW/iron_50.png"
+  ],
+  "IOR_RH_Cocoa_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Cocoa_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Cocoa_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Cocoa_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Cocoa_IORW/iron_50.png"
+  ],
+  "IOR_RH_Maya_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Maya_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Maya_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Maya_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Maya_IORW/iron_50.png"
+  ],
+  "IOR_RH_Megu_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Megu_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Megu_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Megu_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Megu_IORW/iron_50.png"
+  ],
+  "IOR_RH_Rize_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Rize_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Rize_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Rize_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Rize_IORW/iron_50.png"
+  ],
+  "IOR_RH_Syaro_IORW": [
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Syaro_IORW/default_IOLM2_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Syaro_IORW/default_IOLM2_50.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Syaro_IORW/iron_40.png",
+    "assets/minecraft/textures/entity/littleMaid/IOR_RH_Syaro_IORW/iron_50.png"
+  ],
+  "mmm_aug": [
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_02.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_08.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_aug/aug_0d.png"
+  ],
+  "mmm_sr2": [
+    "assets/minecraft/textures/entity/littlemaid/mmm_sr2/engageoctaver_0c.png",
+    "assets/minecraft/textures/entity/littlemaid/mmm_sr2/engageoctaver_3c.png"
+  ]
+}

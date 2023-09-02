@@ -1,0 +1,9 @@
+{
+  "outputs": [
+    {
+      "target": "crystal",
+      "weight": 200,
+      "id": "environmentaltech:litherite_crystal"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "machine": "Large_High-Precision_Assembly_Line",
+  "registryName": "chaoticinfuser",
+  "recipeTime": 1200,
+  "requirements": [
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@104",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@209",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@224",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@239",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@599",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:resource@5",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicadditions:chaotic_energy_core",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "contenttweaker:chaoticprocessormainframe",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "contenttweaker:awakenedmainframe",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "contenttweaker:draconicmainframe",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:crafting_injector",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:crafting_injector@1",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:crafting_injector@2",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:block_resource@2",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:blockorichalcos",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extracells:storage.component@3",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "enderio:block_alloy_endergy@3",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "nuclearcraft:californium@8",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_plate_double@396",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_plate_double@396",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_plate@32011",
+      "amount": 16
+    },
+    {
+      "type": "meklaser",
+      "io-type": "input",
+      "energy": 12000000000
+    },
+    {
+      "type": "energy",
+      "io-type": "input",
+      "energyPerTick": 20000000000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "redstone",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "redstone",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "naquadria",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "naquadria",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "naquadria",
+      "amount": 32000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "plasma.helium",
+      "amount": 125000
+    },
+    {
+      "type": "item",
+      "io-type": "output",
+      "item": "draconicevolution:crafting_injector@3",
+      "amount": 2
+    }
+    
+  ]
+}

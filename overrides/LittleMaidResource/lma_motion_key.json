@@ -1,0 +1,23 @@
+{
+  "MotionKey": {
+    "Key1": "lml:sitdown",
+    "Key2": "lml:sleep",
+    "Key3": "lml:utubuse",
+    "Key4": "lml:byebye",
+    "Key5": "lml:dance",
+    "Key6": "lml:strange",
+    "Key7": "lml:sleep2",
+    "Key8": "lml:dance2",
+    "Key9": ""
+  },
+  "MotionList": [
+    "lml:sitdown",
+    "lml:sleep",
+    "lml:utubuse",
+    "lml:byebye",
+    "lml:dance",
+    "lml:strange",
+    "lml:sleep2",
+    "lml:dance2"
+  ]
+}

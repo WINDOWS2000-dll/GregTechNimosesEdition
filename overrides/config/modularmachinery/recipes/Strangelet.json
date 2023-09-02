@@ -1,0 +1,252 @@
+{
+  "machine": "SuperCritical_SpatioTemporal_Material_Phase_Transition_Device",
+  "registryName": "strangelet",
+  "recipeTime": 640,
+  "requirements": [
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:chaos_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:chaos_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:chaos_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:chaos_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:draconic_block",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:draconic_block",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:resource@6",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "eternalsingularity:eternal_singularity",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "mekanism:atomicalloy",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "mekanism:atomicalloy",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "mekanism:atomicalloy",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "mekanism:atomicalloy",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "fluxnetworks:fluxblock",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_ingot@32011",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "thermalfoundation:storage_alloy@7",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "astralsorcery:itemcraftingcomponent@1",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:storage@1",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "thaumadditions:mithminite_ingot",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "iceandfire:dragonsteel_fire_block",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "iceandfire:dragonsteel_ice_block",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "nuclearcraft:block_depleted_californium",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "taiga:adamant_ingot",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "enderio:block_alloy_endergy@3",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "twilightforest:block_storage@1",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:material@1",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:blockshadowium",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:blockphotonium",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_block_compressed_24@12",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:block_resource",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:block_resource",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:block_resource@2",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "minecraft:bedrock",
+      "amount": 32
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "neutron",
+      "amount": 384000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "plasma.nickel",
+      "amount": 256000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "plasma.draconiumawakened",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "tritanium",
+      "amount": 512000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "plasma.gaiasteel",
+      "amount": 256000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "plutonium_241",
+      "amount": 640000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "naquadah_enriched",
+      "amount": 384000
+    },
+    {
+      "type": "energy",
+      "io-type": "input",
+      "energyPerTick": 344000000000
+    },
+    {
+      "type": "item",
+      "io-type": "output",
+      "item": "gregtech:meta_ingot@32012",
+      "amount": 8
+    }
+  ]
+}

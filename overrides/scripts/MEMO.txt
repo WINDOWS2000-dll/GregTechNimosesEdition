@@ -1,0 +1,42 @@
+<appliedenergistics2:part:56>
+
+  //Cell Insert Recipe
+    //256k
+canner.recipeBuilder()
+    .inputs([<extracells:storage.casing>, <extracells:storage.component>])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+    //1024k
+canner.recipeBuilder()
+    .inputs([<extracells:storage.casing>, <extracells:storage.component:1>])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+    //4096k
+canner.recipeBuilder()
+    .inputs([<extracells:storage.casing>, <extracells:storage.component:2>])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+    //16384k
+canner.recipeBuilder()
+    .inputs([<extracells:storage.casing>, <extracells:storage.component:3>])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+    highenergymaterialphaseshiftercore
+    highenergymaterialphaseshiftercasing
+
+/ct hand
+
+<liquid:lithiumhexafluorophosphate>

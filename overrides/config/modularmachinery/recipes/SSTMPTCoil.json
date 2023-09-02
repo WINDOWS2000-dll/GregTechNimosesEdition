@@ -1,0 +1,293 @@
+{
+    "machine": "Large_High-Precision_Assembly_Line",
+    "registryName": "sstmptcoil1",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "soldering_alloy",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "naquadria",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "xenon",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "antimatter",
+            "amount": 2880
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "draconiumawakened",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lumium",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "void",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "terrasteel",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "polybenzimidazole",
+            "amount": 128000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "astralsorcery.liquidstarlight",
+            "amount": 64000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "neutron",
+            "amount": 64000
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquidfusionfuel",
+            "amount": 1440
+        },
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 32000000000
+        },
+        {
+            "type": "meklaser",
+            "io-type": "input",
+            "energy": 80000000000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "draconicevolution:chaotic_core",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extracells:storage.component@3",
+            "amount": 24
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:wire_hex@32001",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:chaoticprocessormainframe",
+            "amount": 36
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing@1",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing@1",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing@1",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing@1",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "gregtech:fusion_casing",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "eternalsingularity:combined_singularity@11",
+            "amount": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:teleportationcore",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "threng:material@14",
+            "amount":  64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extendedcrafting:material@13",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "tconevo:metal@13",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thaumadditions:mithminite_ingot",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "iceandfire:dragonsteel_ice_ingot",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "iceandfire:dragonsteel_fire_ingot",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "nuclearcraft:depleted_fuel_californium@7",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thaumicaugmentation:material@3",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extrabotany:material@1",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:fiery_ingot",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_capacitor_stellar",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "redstonearsenal:material@32",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:resource@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:resource@4",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botanicadds:gaiasteel_ingot",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "extrautils2:opinium@8",
+            "amount": 48
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "deepmoblearning:infused_ingot_block",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:upgrade@256",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:supercriticalspatiotemporalmaterialphasetransitioncoil",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:supercriticalspatiotemporalmaterialphasetransitioncoil",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:supercriticalspatiotemporalmaterialphasetransitioncoil",
+            "amount": 64
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:supercriticalspatiotemporalmaterialphasetransitioncoil",
+            "amount": 64
+        }
+    ]
+}

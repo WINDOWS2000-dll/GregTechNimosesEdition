@@ -1,0 +1,19 @@
+{
+  "outputs": [
+    {
+      "target": "crystal",
+      "weight": 1000,
+      "id": "gregtech:ore_copper_0"
+    },
+    {
+      "target": "crystal",
+      "weight": 1,
+      "id": "OD:oreOsmium"
+    },
+    {
+      "target": "crystal",
+      "weight": 1,
+      "id": "OD:oreIridium"
+    }
+  ]
+}

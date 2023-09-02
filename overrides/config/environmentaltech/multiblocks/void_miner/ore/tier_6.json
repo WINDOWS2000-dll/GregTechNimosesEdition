@@ -1,0 +1,298 @@
+{
+  "outputs": [
+    {
+      "target": "crystal",
+      "weight": 150,
+      "id": "environmentaltech:litherite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 150,
+      "id": "environmentaltech:erodium_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 120,
+      "id": "environmentaltech:kyronite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 90,
+      "id": "environmentaltech:pladium_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 60,
+      "id": "environmentaltech:ionite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 30,
+      "id": "environmentaltech:aethium_crystal"
+    },
+    {
+      "target": "black",
+      "weight": 24,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
+      "target": "orange",
+      "weight": 200,
+      "id": "gregtech:ore_copper_0"
+    },
+    {
+      "target":"orange",
+      "weight": 195,
+      "id": "gregtech:ore_iron_0"
+    },
+    {
+      "target":"orange",
+      "weight": 180,
+      "id": "gregtech:ore_chalcopyrite_0:2"
+    },
+    {
+      "target":"orange",
+      "weight": 175,
+      "id": "gregtech:ore_tin_0"
+    },
+    {
+      "target": "orange",
+      "weight": 160,
+      "id": "gregtech:ore_redstone_0"
+    },
+    {
+      "target": "orange",
+      "weight": 155,
+      "id": "gregtech:ore_cinnabar_0"
+    },
+    {
+      "target": "orange",
+      "weight": 150,
+      "id": "gregtech:ore_oilsands_0"
+    },
+    {
+      "target": "orange",
+      "weight": 145,
+      "id": "gregtech:ore_tetrahedrite_0:2"
+    },
+    {
+      "target": "orange",
+      "weight": 150,
+      "id": "gregtech:ore_talc_0"
+    },
+    {
+      "target": "orange",
+      "weight": 145,
+      "id": "gregtech:ore_lead_0"
+    },
+    {
+      "target": "orange",
+      "weight": 150,
+      "id": "gregtech:ore_asbestos_0"
+    },
+    {
+      "target": "orange",
+      "weight": 150,
+      "id": "gregtech:ore_sulfur_0"
+    },
+    {
+      "target": "orange",
+      "weight": 145,
+      "id": "gregtech:ore_mica_0"
+    },
+    {
+      "target": "orange",
+      "weight": 125,
+      "id": "gregtech:ore_sphalerite_0:2"
+    },
+    {
+      "target": "orange",
+      "weight": 135,
+      "id": "gregtech:ore_rock_salt_0"
+    },
+    {
+      "target": "orange",
+      "weight": 120,
+      "id": "gregtech:ore_aluminium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 115,
+      "id": "gregtech:ore_beryllium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 100,
+      "id": "gregtech:ore_cobalt_0"
+    },
+    {
+      "target": "orange",
+      "weight": 110,
+      "id": "gregtech:ore_pentlandite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 105,
+      "id": "gregtech:ore_tricalcium_phosphate_0"
+    },
+    {
+      "target": "orange",
+      "weight": 95,
+      "id": "gregtech:ore_nickel_0"
+    },
+    {
+      "target": "orange",
+      "weight": 105,
+      "id": "gregtech:ore_electrotine_0"
+    },
+    {
+      "target": "orange",
+      "weight": 105,
+      "id": "gregtech:ore_silver_0"
+    },
+    {
+      "target": "orange",
+      "weight": 85,
+      "id": "gregtech:ore_chalcocite_0:2"
+    },
+    {
+      "target": "orange",
+      "weight": 85,
+      "id": "gregtech:ore_cobaltite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 100,
+      "id": "gregtech:ore_gold_0"
+    },
+    {
+      "target": "orange",
+      "weight": 100,
+      "id": "gregtech:ore_thorium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 100,
+      "id": "gregtech:ore_kyanite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 80,
+      "id": "gregtech:ore_lithium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 95,
+      "id": "gregtech:ore_bornite_0:2"
+    },
+    {
+      "target": "orange",
+      "weight": 85,
+      "id": "gregtech:ore_chromite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 85,
+      "id": "gregtech:ore_vanadium_magnetite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 75,
+      "id": "gregtech:ore_monazite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 80,
+      "id": "gregtech:ore_magnesite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 65,
+      "id": "gregtech:ore_amethyst_0:7"
+    },
+    {
+      "target": "orange",
+      "weight": 55,
+      "id": "gregtech:ore_diamond_0"
+    },
+    {
+      "target": "orange",
+      "weight": 45,
+      "id": "gregtech:ore_emerald_0"
+    },{
+      "target": "orange",
+      "weight": 55,
+      "id": "gregtech:ore_tungstate_0"
+    },
+    {
+      "target": "orange",
+      "weight": 65,
+      "id": "gregtech:ore_pitchblende_0"
+    },
+    {
+      "target": "orange",
+      "weight": 65,
+      "id": "gregtech:ore_uraninite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 55,
+      "id": "gregtech:ore_neodymium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 45,
+      "id": "gregtech:ore_pyrolusite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 45,
+      "id": "gregtech:ore_tantalite_0"
+    },
+    {
+      "target": "orange",
+      "weight": 24,
+      "id": "gregtech:ore_cooperite_0:2"
+    },
+    {
+      "target": "orange",
+      "weight": 35,
+      "id": "gregtech:ore_molybdenum_0"
+    },
+    {
+      "target": "orange",
+      "weight": 25,
+      "id": "gregtech:ore_palladium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 25,
+      "id": "gregtech:ore_platinum_0"
+    },
+    {
+      "target": "orange",
+      "weight": 45,
+      "id": "gregtech:ore_plutonium_0"
+    },
+    {
+      "target": "orange",
+      "weight": 10,
+      "id": "gregtech:ore_naquadah_0"
+    },
+    {
+      "target": "orange",
+      "weight": 65,
+      "id": "gregtech:ore_manasteel_0:8"
+    },
+    {
+      "target": "orange",
+      "weight": 75,
+      "id": "gregtech:ore_thaumium_0:8"
+    },
+    {
+      "target": "orange",
+      "weight": 5,
+      "id": "gregtech:ore_terrasteel_0:8"
+    }
+  ]
+}

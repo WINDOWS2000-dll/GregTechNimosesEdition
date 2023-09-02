@@ -1,0 +1,8361 @@
+{
+    "registryname": "High_Energy_Laser_Reactor",
+    "localizedname": "High Energy Laser Reactor(HELR)",
+     "color": "ff0400",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -13,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -14,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -14,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -13,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -13,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -13,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -13,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 5,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 5,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 18,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 18,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 18,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 18,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 1,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 1,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 16,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 16,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -14,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -14,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -13,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -13,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 10,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -1,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -1,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 1,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 4,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -1,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 15,
+            "y": -1,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 1,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -15,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": -14,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -13,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -11,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -10,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -9,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -8,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 2,
+
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 17,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "gregtech:transparent_casing@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 17,
+
+            "elements": [
+                "modulardiversity:blockmeklaseracceptor@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gregtech:wire_coil@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gcym:large_multiblock_casing@10"
+            ]
+        }
+    ]}

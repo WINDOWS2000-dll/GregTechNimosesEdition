@@ -1,0 +1,308 @@
+#=================================================
+# MODPACKNAME: GregTechNimosesEdition
+# Writer: Sanjinoyatu1692
+# DiscordName: Windows.EXE2000#2700
+# Issue: Please send to my DirectMessage
+#=================================================
+"Winの備忘録"
+#Need Global.zs
+Global.zsでレシピマップを定義する必要があります.
+#Assembler Recipe
+assembler.recipeBuilder()
+    .inputs([])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+#AutoCrave
+autoclave.recipeBuilder()
+        .inputs([])
+        .fluidInputs([])
+        .outputs([])
+        .fluidOutputs([])
+        .EUt()
+        .duration()
+        .buildAndRegister();
+
+#熱分解炉 
+  pyrolyse_oven.recipeBuilder()
+    .inputs([])
+    .outputs([])
+    .notConsumable([])
+    .fluidInputs([])
+    .fluidOutputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+
+#EBF Recipe
+ebf.recipeBuilder()//必須
+    .inputs([])//任意
+    .outputs([])//任意
+    .fluidInputs([])//任意
+    .fluidOutputs([])//任意
+    .property("temperature", )//必須
+    .notConsumable([])//任意
+    .EUt()//必須
+    .duration()//必須
+    .buildAndRegister();//必須
+
+#LCR Recipe
+LCR.recipeBuilder()
+        .inputs([])
+        .fluidInputs([])
+        .outputs([])
+        .fluidOutputs([])
+        .notConsumable([])
+        .EUt()
+        .duration()
+        .buildAndRegister();
+
+"Need Fluid"
+assembler.recipeBuilder()
+    .inputs([])
+    .outputs()
+    .fluidInputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+#Mixer Recipe
+mixer.recipeBuilder()
+        .inputs([])
+        .outputs([])
+        .fluidInputs([])
+        .EUt()
+        .duration()
+        .buildAndRegister();
+
+#Ass_Line
+assline.recipeBuilder()
+    .inputs([])
+    .outputs([])
+    .fluidInputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+#chem_reactor Recipe
+chem_reactor.recipeBuilder()
+    .inputs([])
+    .fluidInputs([])
+    .outputs([])
+    .fluidOutputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+//ItemOnly
+chem_reactor.recipeBuilder()
+    .inputs([])
+    .outputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+//FluidOnly
+chem_reactor.recipeBuilder()
+    .fluidInputs([])
+    .fluidOutputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+//ItemOut(Fluidin)
+chem_reactor.recipeBuilder()
+    .inputs([])
+    .fluidInputs([])
+    .outputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+//FluidOut(Itemin)
+chem_reactor.recipeBuilder()
+    .inputs([])
+    .fluidInputs([])
+    .fluidOutputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+#Wiremill Recipe
+wiremill.recipeBuilder
+    .inputs([])
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+
+#FormingPress Recipe
+forming_press.recipeBuilder()
+    .inputs([])
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+    
+#Cutting Machine Recipe
+cutter.recipeBuilder()
+    .inputs([])
+    .outputs()
+    .fluidInputs(<liquid:lubricant> * 16)
+    .EUt()
+    .duration()
+    .buildAndRegister();
+//別にLubricantでなくとも水でも精製水でも何ならナクアダ溶液でもいい()
+そこらへんGT5uとは違う気がする
+    
+#AlloySmelter Recipe
+alloy_smelter.recipeBuilder()
+    .inputs([])
+    .outputs([])
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+#Canner Recipe
+  //Nomal
+canner.recipeBuilder()
+    .inputs([])
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+  //Need Fluid
+canner.recipeBuilder()
+    .inputs([])
+    .fluidInputs()
+    .outputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+#Circuit Assembler
+cir_ass.recipeBuilder()
+    .inputs([])
+    .fluidInputs()
+    .EUt()
+    .duration()
+    .buildAndRegister();
+
+
+    
+//ContentTweaker Lang file Temprate
+item.contenttweaker.any.name=some
+item.contenttweaker.any.name=some
+item.contenttweaker.any.name=some
+item.contenttweaker.any.name=some
+anyの所に定義した名前を入れます
+someのとこに好きな名前入れてください()
+確かUnLocalizedNameだったはず()
+LocalizeNameと同じにしとけば間違えることはないと思う()
+
+//テクスチャを動かす際のmcmetaの書き方
+{"animation":{ 
+    "frametime": 30
+  }
+}
+frametimeはtick数なので
+"frametime": 20だと次フレームに切り替わるまでの時間が20tickって意味になる()
+
+//配列処理の書き方
+var array1 = [] as IItemStack[];
+
+for i in array1 {
+  ここに必要なのを書く
+}
+
+=のあとのカッコにアイテムを入れます
+（例）
+var array1 = [<threng:machine>,<threng:machine:1>,<threng:machine:2>,<threng:machine:3>,<threng:machine:4>,<threng:machine:5>,<threng:material:4>,<threng:material:1>,<threng:big_assembler>,<threng:big_assembler:5>,<threng:big_assembler:3>,<threng:big_assembler:4>,<threng:big_assembler:1>,<threng:material:8>,<threng:material:9>,<threng:material:10>,<threng:material:11>,<threng:material:12>,<threng:material:13>,<threng:big_assembler:2>] as IItemStack[];
+
+for i in array1 {
+  recipes.remove(i);
+}
+
+#Prototype_Assembling_Line Recipe
+mmRecipe("recipename", "Prototype_Assembling_Line", int) //RecipeName UseMachine RecipeTick
+  .addEnergyPerTickInput()//EnergyInput
+  .addItemInput()//1
+  .addItemInput()//2
+  .addItemInput()//3
+  .addItemInput()//4
+  .addItemInput()//5
+  .addItemInput()//6
+  .addItemInput()//7
+  .addItemInput()//8
+  .addItemInput()//9
+  .addItemInput()//10
+  .addFluidInput()//1
+  .addFluidInput()//2
+  .addFluidInput()//3
+  .addFluidInput()//4
+  .addItemOutput()//OutPutItem
+  .build();//BuildRecipe
+
+#LargeAssemblingLine(LAL) Recipe
+mmRecipe("recipename", "Large_Assembly_Line", Recipetime) //RecipeName UseMachine RecipeTick
+  .addEnergyPerTickInput()//EnergyInput
+  .addItemInput()//1
+  .addItemInput()//2
+  .addItemInput()//3
+  .addItemInput()//4
+  .addItemInput()//5
+  .addItemInput()//6
+  .addItemInput()//7
+  .addItemInput()//8
+  .addItemInput()//9
+  .addItemInput()//10
+  .addItemInput()//11
+  .addItemInput()//12
+  .addItemInput()//13
+  .addItemInput()//14
+  .addItemInput()//15
+  .addItemInput()//16
+  .addItemInput()//17
+  .addFluidInput()//1
+  .addFluidInput()//2
+  .addFluidInput()//3
+  .addFluidInput()//4
+  .addFluidInput()//5
+  .addFluidInput()//6
+  .addFluidInput()//7
+  .addFluidInput()//8
+  .addItemOutput()//OutPutItem
+  .addFluidOutput()//OutPutFluid
+  .build();//BuildRecipe
+
+#HPBF Recipe
+  mmRecipe("RecipeName", "High_Pressure_Blast_Furnace", int)
+    .addEnergyPerTickInput()//MAX2,000,000,000
+    .addItemInput()//MAX32
+    .addFluidInput()//MAX3
+    .addItemOutput()//MAX32
+    .build();
+
+#NC Machines
+//rock crusher
+  mods.nuclearcraft.rock_crusher.addRecipe([itemInput, itemOutput1, itemOutput2, itemOutput3]);
+//Thaum祭壇クラフトテンプレ
+mods.thaumcraft.Infusion.registerRecipe(
+  "recipename",
+  "INFUSION",
+  /*完成品*/,
+  /*安定度指数*/,
+  [/*アスペクト*/],
+  /*中央アイテム*/,
+  [/*周りのアイテム*/]
+);
+#生態系再現チャンバーレシピテンプレ 
+#注意！使うときはマルチブロック定義のファイルと同じファイルに記述すること！
+ecosystem_reproduction_chamber.recipeMap
+          .recipeBuilder()
+            .inputs([])//9まで
+            .outputs([])//12まで
+            .fluidInputs([])//3まで
+            .fluidOutputs([])//3まで
+            .EUt(8192)//103079215056まで
+            .duration(12000)
+            .buildAndRegister();

@@ -1,0 +1,210 @@
+{
+  "machine": "Particle_Accelerator",
+  "registryName": "infinitycataklyst",
+  "recipeTime": 12000,
+  "requirements": [
+    {
+      "type": "energy",
+      "io-type": "input",
+      "energyPerTick": 201326592
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "eternalsingularity:combined_singularity@8",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "eternalsingularity:combined_singularity@14",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_ingot@127",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "draconicevolution:chaos_shard",
+      "amount": 20
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "avaritia:endest_pearl",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrautils2:opinium@8",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "gregtech:meta_item_1@283",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@9",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@10",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@11",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@12",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@13",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@14",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "botania:rune@15",
+      "amount": 1
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "thaumadditions:mithminite_ingot",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "nuclearcraft:californium@8",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "nuclearcraft:curium@12",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "nuclearcraft:americium@4",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "redstonearsenal:material@160",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "iceandfire:dragonsteel_fire_ingot",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "iceandfire:dragonsteel_ice_ingot",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "enderio:item_alloy_endergy_ingot@3",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "twilightforest:fiery_ingot",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:material@1",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:material@8",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "extrabotany:material@5",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "thaumicaugmentation:material@3",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "io-type": "input",
+      "item": "appliedenergistics2:material@47",
+      "amount": 4
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "neutron",
+      "amount": 36000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "astralsorcery.liquidstarlight",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "astralsorcery.liquidstarlight",
+      "amount": 128000
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "naquadria",
+      "amount": 128000
+    },
+    {
+      "type": "item",
+      "io-type": "output",
+      "item": "avaritia:resource@5",
+      "amount": 1
+    }
+  ]
+}

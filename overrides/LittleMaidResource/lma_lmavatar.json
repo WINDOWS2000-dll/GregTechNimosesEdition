@@ -1,0 +1,12 @@
+{
+  "PlayerDefaultModel": {
+    "LittleMaidModel": "default_Orign",
+    "LittleMaidColor": 0,
+    "HelmetModel": "default_Orign",
+    "ChestplateModel": "default_Orign",
+    "LeggingsModel": "default_Orign",
+    "BootsModel": "default_Orign",
+    "EnableLittleMaidAvatar": true
+  },
+  "LittleMaidAvatarList": {}
+}
