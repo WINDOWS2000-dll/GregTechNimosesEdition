@@ -58,7 +58,7 @@ print("------STONE_AGE_LOADING_START------");
 			recipes.remove(<gregtech:meta_tool_head_axe:32009>);
 			recipes.remove(<gregtech:meta_tool_head_hoe:32009>);
 			recipes.remove(<gregtech:meta_tool_head_sword:32009>);
-			recipes.remove(<gregtech:meta_tool:6>.withTag({"GT.ToolStats": {Material: "stoneingot"}}));
+			//recipes.remove(<gregtech:meta_tool:6>.withTag({"GT.ToolStats": {Material: "stoneingot"}}));
   //BricksRecipesRemove
     //SmeltingClayRecipe
 			furnace.remove(<minecraft:brick>);
@@ -154,15 +154,15 @@ print("------STONE_AGE_LOADING_START------");
 
 	//Flint Tools(Greg) Remove
 
-		recipes.removeShaped(<gregtech:meta_tool:4>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
+		//recipes.removeShaped(<gregtech:meta_tool:4>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 
-		recipes.removeShaped(<gregtech:meta_tool:3>.withTag({"GT.ToolStats": {Material: "flint"}}), [[null, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, <minecraft:flint>], [null, <minecraft:stick>, null]]);
+		//recipes.removeShaped(<gregtech:meta_tool:3>.withTag({"GT.ToolStats": {Material: "flint"}}), [[null, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, <minecraft:flint>], [null, <minecraft:stick>, null]]);
 
-		recipes.removeShaped(<gregtech:meta_tool:2>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, null],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
+		//recipes.removeShaped(<gregtech:meta_tool:2>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, null],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 
-		recipes.removeShaped(<gregtech:meta_tool:1>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[<minecraft:flint>, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
+		//recipes.removeShaped(<gregtech:meta_tool:1>.withTag({"GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[<minecraft:flint>, <minecraft:flint>, <minecraft:flint>],[null, <minecraft:stick>, null], [null, <minecraft:stick>, null]]);
 
-		recipes.removeShaped(<gregtech:meta_tool>.withTag({ench: [{lvl: 2 as short, id: 20}], "GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, null],[null, <minecraft:flint>, null], [null, <minecraft:stick>, null]]);
+		//recipes.removeShaped(<gregtech:meta_tool>.withTag({ench: [{lvl: 2 as short, id: 20}], "GT.ToolStats": {MaxDurability: 80, DigSpeed: 6.0 as float, AttackDamage: 2.0 as float, Material: "flint", HarvestLevel: 1}}), [[null, <minecraft:flint>, null],[null, <minecraft:flint>, null], [null, <minecraft:stick>, null]]);
 
 	//TC workbench remove
 		recipes.remove(<tconstruct:tooltables>);

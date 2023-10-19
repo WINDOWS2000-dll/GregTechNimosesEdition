@@ -12,15 +12,15 @@ import mods.gregtech.recipe.RecipeMap;
 //コピペやらでお使いください()
 
 	#Tools - Crafting
-global craftingToolHardHammer as IItemStack = <gregtech:meta_tool:6>;
-global craftingToolFile as IItemStack = <gregtech:meta_tool:9>;
-global craftingToolScrewdriver as IItemStack = <gregtech:meta_tool:11>;
-global craftingToolMortar as IItemStack = <gregtech:meta_tool:12>;
-global craftingToolKnife as IItemStack = <gregtech:meta_tool:15>;
-global craftingToolWrench as IItemStack = <gregtech:meta_tool:8>; 
-global craftingToolSaw as IItemStack = <gregtech:meta_tool:5>;
-global craftingToolSoftHammer as IItemStack = <gregtech:meta_tool:7>;
-global craftingToolWireCutter as IItemStack = <gregtech:meta_tool:13>;
+global craftingToolHardHammer as IItemStack = <ore:craftingToolHardHammer>;
+global craftingToolFile as IItemStack = <ore:craftingToolFiley>;
+global craftingToolScrewdriver as IItemStack = <ore:craftingToolScrewdriver>;
+global craftingToolMortar as IItemStack = <ore:craftingToolMortar>;
+global craftingToolKnife as IItemStack = <ore:craftingToolKnife>;
+global craftingToolWrench as IItemStack = <ore:craftingToolWrench>; 
+global craftingToolSaw as IItemStack = <ore:craftingToolSaw>;
+global craftingToolSoftHammer as IItemStack = <ore:craftingToolSoftHammer>;
+global craftingToolWireCutter as IItemStack = <ore:craftingToolWireCutter>;
    #GregTechMachines
 global alloy_smelter as RecipeMap = <recipemap:alloy_smelter>;
 global arc_furnace as RecipeMap = <recipemap:arc_furnace>;
