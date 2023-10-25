@@ -59,42 +59,13 @@ var Br = Elements.add(35, 44, -1, null, "Bromine", "Br", false);
 
 //ADD Chemical Formular
   //GlowStone
-    var glowstone = MaterialRegistry.get("glowstone");
-    glowstone.setFormula("Au₂Si(FeS₂)₅(CrAl₂O₃)Hg₃", true);
+    <material:glowstone>.setFormula("Au₂Si(FeS₂)₅(CrAl₂O₃)Hg₃", true);
   //Gold
-    var gold = MaterialRegistry.get("gold");
-    gold.addFlags("generate_long_rod", "generate_gear", "generate_small_gear");
+    <material:gold>.addFlags("generate_long_rod", "generate_gear", "generate_small_gear");
   //ホウ酸ガラス
-    var borosilicate_glass = MaterialRegistry.get("borosilicate_glass");
-    borosilicate_glass.addFlags("generate_long_rod", "generate_gear", "generate_small_gear", "generate_rod");
+    <material:borosilicate_glass>.addFlags(["generate_long_rod", "generate_gear", "generate_small_gear", "generate_rod"]);
   //炭化タングステン
-    var tungsten_carbide = MaterialRegistry.get("tungsten_carbide");
-    tungsten_carbide.addFlags("generate_ring", "generate_spring", "generate_spring_small", "generate_fine_wire", "generate_rotor", "generate_round");
-
-//ADD Material Flags
-  //Laser_Flags
-    //Argon
-      var argon = MaterialRegistry.get("argon");
-      argon.addFlags("flag_laser");
-    //Helium
-      var helium = MaterialRegistry.get("helium");
-      helium.addFlags("flag_laser");
-    //Krypton
-      var krypton = MaterialRegistry.get("krypton");
-      krypton.addFlags("flag_laser");
-    //Neon
-      var neon = MaterialRegistry.get("neon");
-      neon.addFlags("flag_laser");
-    //Radon
-      var radon = MaterialRegistry.get("radon");
-      radon.addFlags("flag_laser");
-    //Xenon
-      var xenon = MaterialRegistry.get("xenon");
-      xenon.addFlags("flag_laser");
-    //Carbon_Dioxide
-      var carbon_dioxide = MaterialRegistry.get("carbon_dioxide");
-      carbon_dioxide.addFlags("flag_laser");
-
+    <material:tungsten_carbide>.addFlags(["generate_ring", "generate_spring", "generate_spring_small", "generate_fine_wire", "generate_rotor", "generate_round"]);
 
 //ADD Materials
 var terrasteel = MaterialBuilder(32000, "terrasteel")
